@@ -1,4 +1,4 @@
 ini adalah repository pertama saya
-Nama    :
-NIM     :
-Kelas   :
+Nama    : Octavio Barreto Li
+NIM     : 264107020140
+Kelas   : 1H 
